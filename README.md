@@ -45,18 +45,16 @@ To get started with the blog website locally, follow these steps:
 
 ## Features
 
-• User authentication (register, login, logout)
-• Create, edit, and delete blog posts
-• Responsive design for mobile and desktop
-• Admin panel for managing content (if implemented)
+User authentication (register, login, logout)
+Create, edit, and delete blog posts
+Responsive design for mobile and desktop
+Admin panel for managing content (if implemented)
 
 ## Technologies Used 
 
-• **Backend**: Flask, Python
-• **Frontend**: HTML, CSS, JavaScript
-• **Database**: SQLite (or any other DB, update based on your usage)
-• **Authentication**: Flask-Login, Flask-WTF
+**Backend**: Flask, Python
+**Frontend**: HTML, CSS, JavaScript
+**Database**: SQLite (or any other DB, update based on your usage)
+**Authentication**: Flask-Login, Flask-WTF
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
